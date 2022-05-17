@@ -3,6 +3,8 @@ D_EXTEND(
     CNAME("exp", "hole.zaverden.com."),
     CNAME("*.exp", "exp.zaverden.com."),
     CNAME("test.exp", "exp.zaverden.com."),
-    CNAME("*.test.exp", "exp.zaverden.com.")
+    CNAME("*.test.exp", "exp.zaverden.com."),
+    CNAME("test2.exp", "exp.zaverden.com."),
+    CNAME("*.test2.exp", "exp.zaverden.com.")
   );
   
